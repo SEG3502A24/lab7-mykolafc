@@ -7,3 +7,5 @@ Access Angular Client Application - in branch *client*
 
 Mykola Forest-Chomyn
 300231442
+
+J'ai eu de la difficulté avec mon installation des modules node. La solution fonctionnait avant mais je ne peux plus la démontrer... désolé pour la confusion. Je ne sais pas comment réparer cet erreure.
